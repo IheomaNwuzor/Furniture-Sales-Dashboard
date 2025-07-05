@@ -1,9 +1,10 @@
 # Furniture-Sales-Dashboard
 
+![Furniture sales 1](https://github.com/user-attachments/assets/4a86ce1e-284c-48cc-86b5-737f03dc8aa6)
 
 
 
-![Furniture sales](https://github.com/user-attachments/assets/0eac64fb-dc65-40f6-9ed2-751924635bd7)
+
 
 
 
