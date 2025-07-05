@@ -1,5 +1,5 @@
 # Furniture-Sales-Dashboard
-## This Furniture Sales dashboard project designs and develops a comprehensive and interactive dashboard providing real-time insights into various aspects of sales performance. The dashboard was designed to help sale managers and stakeholders monitore key parformance sales indicators (KSPIs) for product catergories by regions, states and cities, identify difficulties, optimise sales operations and enhance descision making.
+## This Furniture Sales dashboard project designs and develops a comprehensive and interactive dashboard providing real-time insights into various aspects of sales performance. The dashboard was designed to help sale managers and stakeholders to monitor key parformance sales indicators (KSPIs) for product catergories by regions, states and cities, identifying difficulties, optimising sales operations and enhancing descision making.
 
 # Objectives: 
 
