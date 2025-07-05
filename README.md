@@ -1,9 +1,9 @@
 # Furniture-Sales-Dashboard
-## This Furniture Sales dashboard project designs and develops a comprehensive and interactive dashboard providing real-time insights into various aspects of sales performance. The dashboard was designed to help sale managers and stakeholders to monitor key parformance sales indicators (KSPIs) for product catergories by regions, states and cities, identifying difficulties, optimising sales operations and enhancing descision making.
+## This Furniture Sales dashboard project designs and develops a comprehensive and interactive dashboard providing real-time insights into various aspects of sales performance. The dashboard was designed to help sale managers and stakeholders to monitor sales key performance indicators (KPIs) for product catergories by regions, states and cities, identifying difficulties, optimising sales operations and enhancing descision making.
 
 # Objectives: 
 
-The following are the objectives were achieved: Real-Time Monitoring, up-to-date information on the order and shipping activities, Performance Tracking on region, states and cities, Track and monitor key performance sales indicators (KPSIs) to evaluate sales efficiency by product category, quantity, months and sales profit. Bottleneck Identification: Identify areas where delays or inefficiencies occur. Cost Management and delivery times: Monitor and control deliver dates, modes and costs. Inventory Management: Optimize sales levels to balance order and demand. Sales Performance: Evaluate and compare sales performance. Demand Forecasting: Predict future sales to improve planning and profits.
+The following are the objectives were achieved: Real-Time Monitoring, up-to-date information on the order and shipping activities, Performance Tracking on region, states and cities, Track and monitor sales key performance indicators (KPIs) to evaluate sales efficiency by product category, quantity, months and sales profit. Bottleneck Identification: Identify areas where delays or inefficiencies occur. Cost Management and delivery times: Monitor and control deliver dates, modes and costs. Inventory Management: Optimize sales levels to balance order and demand. Sales Performance: Evaluate and compare sales performance. Demand Forecasting: Predict future sales to improve planning and profits.
 
 # Visualizations:
 
@@ -11,12 +11,12 @@ Sale by quantity: The rounded rectangles displays current, previous and year on 
 
 # Interactive filters:
 
-Located on the dashboard, use filters for Consumer, Coporate, Home Office, Central, East and West categories to refine the data displayed across visualizations.
+Located on the dashboard, use filters for segment and regions categories to refine the data displayed across visualizations.
 Analyze Trends:
-Use the peak sales month line chart to predict future ales.
+Use the line chart analse the trend of sales performance.
 Identify patterns in order dates, ship mode and sales performance.
 Focus on Risks:
-Monitor the profit throgh the rounded rectangle, the sales category and highest selling cities with their profits through the cluster charts.
+Monitor the profit throgh the KPI, the sales category and highest selling cities with their profits through the cluster charts.
 Investigate categories or orders with lowest sale levels or high risks.
 
 # Tools and features used:
