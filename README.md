@@ -3,13 +3,13 @@
 
 # Objectives: 
 
-The following are the objectiv: Real-Time Monitoring, up-to-date information on the order and shipping activities, Performance Tracking on region, states and cities, Track and monitor key performance sales indicators (KPSIs) to evaluate sales efficiency by product category, quantity, months and sales profit. Bottleneck Identification: Identify areas where delays or inefficiencies occur. 4.Cost Management and delivery times: Monitor and control deliver dates, modes, costs. 5.Inventory Management: Optimize inventory levels to balance supply and demand. 6.Sales Performance: Evaluate and compare sales performance. 7.Demand Forecasting: Predict future sales to improve planning and profit.
+The following are the objectiv: Real-Time Monitoring, up-to-date information on the order and shipping activities, Performance Tracking on region, states and cities, Track and monitor key performance sales indicators (KPSIs) to evaluate sales efficiency by product category, quantity, months and sales profit. Bottleneck Identification: Identify areas where delays or inefficiencies occur. 4.Cost Management and delivery times: Monitor and control deliver dates, modes, costs. 5.Inventory Management: Optimize inventory levels to balance supply and demand. 6.Sales Performance: Evaluate and compare sales performance. 7.Demand Forecasting: Predict future sales to improve planning and profits.
 
-# Visualizations:
+#Visualisation:
 
 Sale by quantity: The rounded rectangles displays current, previous and year on year sales category by quantity and profit. Sales trend: The line plot displays the peak sale by month. Shipping mode: The donut chart indicates the most used shipping mode indication how frequent its been used. Sales catergory and top 5 selling cities: The cluster chrts indicate highest sales category with amount of sales and top selling city with the amount and profit made. Shipping distribution: The bar chart the delivery times for the most orders made. Shipping distribution by State: the map displays the state with the highest sales.  Overall, this provide an overview of furniture sales performance highlighting potential difficultis in sales and profit levels.
 
-#Interactive Filters:
+# Interactive filters
 
 Located on the Operational Insights page, use filters for Consumer, Coporate, Home Office, Central, East and West categories to refine the data displayed across visualizations.
 Analyze Trends:
@@ -19,7 +19,7 @@ Focus on Risks:
 Monitor the profit throgh the rounded rectangle, and the sales category and highest selling cities with their profits through the cluster charts.
 Investigate categories or suppliers with low stock levels or high risks.
 
-#Tools and features used:
+# Tools and features used
 
 Excel Visualizations:
 Line charts, bar charts, pie charts, maps, cluster charts, donut charts.
