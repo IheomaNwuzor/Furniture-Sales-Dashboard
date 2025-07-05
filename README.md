@@ -1,4 +1,12 @@
 # Furniture-Sales-Dashboard
+
+
+
+
+![Furniture sales](https://github.com/user-attachments/assets/0eac64fb-dc65-40f6-9ed2-751924635bd7)
+
+
+
 ## This Furniture Sales dashboard project designs and develops a comprehensive and interactive dashboard providing real-time insights into various aspects of sales performance. The dashboard was designed to help sale managers and stakeholders to monitor sales key performance indicators (KPIs) for product catergories by regions, states and cities, identifying difficulties, optimising sales operations and enhancing descision making.
 
 # Objectives: 
